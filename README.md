@@ -1,6 +1,6 @@
 # Juego Multiusuario en Laravel
 
-Este es un ejemplo de una aplicación Laravel para un juego multiusuario con las siguientes rutas:
+Esta es una aplicación Laravel para un juego multiusuario con las siguientes rutas:
 
 ## Rutas del Juego
 
